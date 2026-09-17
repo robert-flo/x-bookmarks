@@ -102,7 +102,8 @@
     if (!state.all.length) state.all = sampleData();
     state.filtered = state.all.slice();
     renderStats(); renderList(); bindControls();
-    setText("load-status", state.all.length + " registros indexados");
+    setText("lede-count", state.all.length.toLocaleString("es-ES"));
+    setText("load-status", state.all.length.toLocaleString("es-ES") + " registros indexados");
   }
 
   document.addEventListener("DOMContentLoaded", function () {
