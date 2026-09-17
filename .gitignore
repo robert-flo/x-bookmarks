@@ -1,3 +1,17 @@
 .DS_Store
 *.log
 .cursor
+.agents
+.keep-static
+skills-lock.json
+/bundle
+/vendor/bundle
+/log/*
+/tmp/*
+!/log/.keep
+!/tmp/.keep
+/storage
+/tmp/storage
+/config/*.key
+/public/assets
+.byebug_history

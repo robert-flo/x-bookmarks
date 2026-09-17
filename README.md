@@ -31,7 +31,7 @@ No abras `index.html` haciendo doble clic. El navegador no puede leer `bookmarks
 make serve
 ```
 
-Entra a http://127.0.0.1:8765/
+Eso arranca Rails en http://127.0.0.1:8765/ (hace falta HTTP para que el navegador lea `bookmarks.md`).
 
 En otra terminal, `make open`. Otro puerto: `PORT=9000 make serve`.
 
