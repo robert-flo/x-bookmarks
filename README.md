@@ -25,23 +25,19 @@ A veces hay una etiqueta al inicio (`[promo]` u `[nsfw]`). Con eso la página lo
 
 ## Cómo verla en tu máquina
 
-No abras `index.html` haciendo doble clic. El navegador no puede leer `bookmarks.md` así.
-
 ```sh
 make serve
 ```
 
-Eso arranca Rails en http://127.0.0.1:8765/ (hace falta HTTP para que el navegador lea `bookmarks.md`).
-
-En otra terminal, `make open`. Otro puerto: `PORT=9000 make serve`.
+Arranca Rails en http://127.0.0.1:8765/. `make build` escribe el estático en `build/`; `make preview` sirve esa carpeta (es lo que GitHub Pages publica). Otro puerto: `PORT=9000 make serve`.
 
 ## Archivos
 
 | Archivo | Para qué |
 | --- | --- |
 | `bookmarks.md` | los datos |
-| `index.html` | la página |
-| `js/bookmarks.js` | leer el markdown y pintar la lista |
-| `css/` | el aspecto |
+| `app/views/` | la página (Rails la pinta) |
+| `public/js/bookmarks.js` | leer el markdown y pintar la lista |
+| `public/css/` | el aspecto |
 
-GitHub Pages publica lo que hay en `main`. No hay servidor propio ni base de datos.
+Rails **construye**. GitHub Pages **sirve** el resultado. No hay servidor Rails en producción ni base de datos.
