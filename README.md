@@ -1,43 +1,47 @@
 # x-bookmarks
 
-Estos son los bookmarks de X de [@thePrimeagen_sv](https://x.com/thePrimeagen_sv). Están en una página para buscarlos y filtrarlos, no en una lista infinita.
+Sitio de bookmarks de X, **construido con Ruby on Rails**. En producción no corre un servidor Rails: el rake genera HTML estático y [GitHub Pages](https://robert-flo.github.io/x-bookmarks/) lo sirve.
 
-Página: https://robert-flo.github.io/x-bookmarks/
+Los bookmarks son de [@thePrimeagen_sv](https://x.com/thePrimeagen_sv), exportados con la API de [x.ai](https://x.ai/).
 
-## De dónde salen
+## Cómo está hecha
 
-El archivo [`bookmarks.md`](bookmarks.md) es un export de esos bookmarks, sacado con la API de [x.ai](https://x.ai/). Una línea por post.
+Rails pinta la página (vistas ERB, sin base de datos). El navegador lee [`bookmarks.md`](bookmarks.md) y arma búsqueda, filtros y métricas. Un push a `main` ejecuta `rake site:build` y publica la carpeta `build/`.
 
-Al abrir la página, el navegador lee ese archivo y arma el tablero. Si mañana hay más (o menos) líneas, los números de la cabecera cambian solos.
+```text
+Rails (desarrollo / CI)  →  build/  →  GitHub Pages
+```
 
-Cada línea se parece a esto:
+## De dónde salen los datos
+
+Una línea por post:
 
 ```text
 - texto del post · por qué vale: … · @autor · https://x.com/…
 ```
 
-A veces hay una etiqueta al inicio (`[promo]` u `[nsfw]`). Con eso la página los agrupa:
+Etiquetas al inicio: `[promo]`, `[nsfw]`. Si el motivo habla de conservar una idea, es **idea**; si no, **para revisar**. Si cambia el markdown, los números de la cabecera cambian solos.
 
-- **promo** — dice `[promo]`
-- **sensible** — dice `[nsfw]`
-- **idea** — el motivo habla de conservar una idea
-- **para revisar** — todo lo demás
+## Flujo de trabajo
 
-## Cómo verla en tu máquina
+Hace falta Ruby (ver `.ruby-version`). Luego:
 
 ```sh
-make serve
+make setup      # gems
+make serve      # Rails en http://127.0.0.1:8765/
+make test
+make build      # estático en build/
+make preview    # sirve build/ como Pages
 ```
 
-Arranca Rails en http://127.0.0.1:8765/. `make build` escribe el estático en `build/`; `make preview` sirve esa carpeta (es lo que GitHub Pages publica). Otro puerto: `PORT=9000 make serve`.
+`make` lista los comandos. Otro puerto: `PORT=9000 make serve`.
 
-## Archivos
+## Piezas
 
-| Archivo | Para qué |
+| Qué | Rol |
 | --- | --- |
-| `bookmarks.md` | los datos |
-| `app/views/` | la página (Rails la pinta) |
-| `public/js/bookmarks.js` | leer el markdown y pintar la lista |
-| `public/css/` | el aspecto |
-
-Rails **construye**. GitHub Pages **sirve** el resultado. No hay servidor Rails en producción ni base de datos.
+| Rails 8 | app, vistas, `rake site:build` |
+| `bookmarks.md` | datos |
+| `public/js/bookmarks.js` | parseo y UI en el navegador |
+| `public/css/` | aspecto |
+| GitHub Actions | build + deploy a Pages |
