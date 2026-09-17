@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Archivo de señales — Roberto</title>
+    <link rel="stylesheet" href="css/design-system.css" />
+    <link rel="stylesheet" href="css/bookmarks.css" />
+    <script src="js/design-system.js" defer></script>
+    <script src="js/bookmarks.js" defer></script>
+  </head>
+  <body>
+    <div class="container">
+      <header class="section masthead">
+        <div class="masthead-row"><p class="section-label">ARCHIVO / ROBERTO / 2026</p><span class="status"><i></i> LIVE INDEX</span></div>
+        <h1 data-annotate>Un archivo de [señales].</h1>
+        <p class="lede">1.650 bookmarks observados sin convertirlos en una lista muerta. Este tablero encuentra densidad: qué temas regresan, quién los activa y qué merece volver a abrirse.</p>
+        <div class="command-line"><span>ANALYZE</span><code>bookmarks.md</code><b>→</b><span id="load-status">leyendo fuente…</span></div>
+      </header>
+      <main>
+        <section class="section" aria-labelledby="pulse-title">
+          <p class="section-label">PULSO</p><h2 id="pulse-title" data-annotate>La colección piensa en [patrones].</h2>
+          <div class="metric-grid">
+            <div class="metric"><span class="metric-value" id="total-count">—</span><span class="metric-label">registros</span></div>
+            <div class="metric"><span class="metric-value" id="promo-count">—</span><span class="metric-label">promos / ofertas</span></div>
+            <div class="metric"><span class="metric-value" id="idea-count">—</span><span class="metric-label">ideas técnicas</span></div>
+            <div class="metric"><span class="metric-value" id="author-count">—</span><span class="metric-label">autores detectados</span></div>
+          </div>
+          <div class="grid grid--2 signal-layout">
+            <div class="card chart-card"><div class="card-heading"><p class="section-label">SEÑALES DE VALOR</p><span class="font-mono text-sm" id="signal-total">—</span></div><div id="signal-chart" class="bar-chart" aria-label="Distribución de señales"></div></div>
+            <div class="card radar-card"><div class="card-heading"><p class="section-label">LECTURA RÁPIDA</p><span class="font-mono text-sm">TOP 05</span></div><div id="author-list" class="author-list"></div></div>
+          </div>
+        </section>
+        <section class="section" aria-labelledby="explore-title">
+          <div class="section-heading"><div><p class="section-label">EXPLORAR</p><h2 id="explore-title">La cola de lectura.</h2></div><span class="font-mono text-sm result-count" id="result-count">—</span></div>
+          <div class="controls" role="search"><label class="search-box"><span>⌕</span><input id="search-input" type="search" placeholder="Buscar tema, autor o frase…" /></label><label class="select-box"><span class="sr-only">Filtrar por tipo</span><select id="type-filter"><option value="all">Todas las señales</option><option value="idea">Ideas técnicas</option><option value="promo">Promos y ofertas</option><option value="watch">Para revisar</option><option value="sensitive">Marcado sensible</option></select></label><button id="shuffle-button" class="text-button" type="button">mezclar cola ↗</button></div>
+          <div id="bookmark-list" class="bookmark-list" aria-live="polite"></div><button id="load-more" class="load-more" type="button">cargar más registros</button>
+        </section>
+        <section class="section closing-note"><p class="section-label">IMPLICACIÓN</p><h2 data-annotate>Guardar no es acumular. Es construir una [memoria operable].</h2><p class="text-muted">El archivo original permanece intacto. Esta vista solo lo vuelve consultable: cada filtro es una pregunta distinta a la misma colección.</p></section>
+      </main>
+    </div>
+  </body>
+</html>
