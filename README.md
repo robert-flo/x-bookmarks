@@ -1,46 +1,47 @@
 # x-bookmarks
 
-Archivo consultable de bookmarks de [X](https://x.com). Sitio estático: HTML, CSS y JS, sin build ni backend.
+Estos son los bookmarks de X de [@thePrimeagen_sv](https://x.com/thePrimeagen_sv). Están en una página para buscarlos y filtrarlos, no en una lista infinita.
 
-**En vivo:** https://robert-flo.github.io/x-bookmarks/
+Página: https://robert-flo.github.io/x-bookmarks/
 
-## De dónde salen los datos
+## De dónde salen
 
-La fuente única es [`bookmarks.md`](bookmarks.md): un export en markdown de los bookmarks de Roberto, una viñeta por registro.
+El archivo [`bookmarks.md`](bookmarks.md) es un export de esos bookmarks, sacado con la API de [x.ai](https://x.ai/). Una línea por post.
 
-Cada línea sigue este patrón:
+Al abrir la página, el navegador lee ese archivo y arma el tablero. Si mañana hay más (o menos) líneas, los números de la cabecera cambian solos.
+
+Cada línea se parece a esto:
 
 ```text
-- [etiqueta opcional] texto del post · por qué vale: … · @autor · https://x.com/…
+- texto del post · por qué vale: … · @autor · https://x.com/…
 ```
 
-`js/bookmarks.js` pide ese archivo con `fetch("bookmarks.md")` y lo parsea en el navegador. Clasifica cada ítem según el texto:
+A veces hay una etiqueta al inicio (`[promo]` u `[nsfw]`). Con eso la página los agrupa:
 
-| Tipo | Criterio |
-| --- | --- |
-| promo | contiene `[promo]` |
-| sensitive | contiene `[nsfw]` |
-| idea | el motivo dice “conserva una idea” |
-| watch | el resto |
+- **promo** — dice `[promo]`
+- **sensible** — dice `[nsfw]`
+- **idea** — el motivo habla de conservar una idea
+- **para revisar** — todo lo demás
 
-Los totales del encabezado (lede y `ANALYZE`) y las métricas del tablero se calculan a partir de ese parseo. Si mañana cambia `bookmarks.md`, la página refleja el archivo nuevo sin tocar el HTML.
+## Cómo verla en tu máquina
 
-Si el fetch falla (por ejemplo abriendo `index.html` como `file://`), cae a una muestra mínima de tres registros.
-
-## Cómo funciona la página
-
-1. `index.html` monta el tablero y enlaza el [sistema visual de Kun Chen](https://github.com/kunchenguid/kunchenguid-design-system).
-2. `js/design-system.js` convierte `[texto]` en anotaciones.
-3. `js/bookmarks.js` indexa la colección, dibuja pulso (conteos, barras, top autores) y la cola de lectura (búsqueda, filtro, mezclar, cargar más).
-
-No hay API ni base de datos. GitHub Pages sirve los archivos de `main` desde la raíz del repo.
-
-## Desarrollo
-
-Hace falta un servidor HTTP: el navegador no puede `fetch` el markdown desde disco.
+No abras `index.html` haciendo doble clic. El navegador no puede leer `bookmarks.md` así.
 
 ```sh
 make serve
 ```
 
-Luego [http://127.0.0.1:8765/](http://127.0.0.1:8765/). En otra terminal: `make open`. Otro puerto: `PORT=9000 make serve`.
+Entra a http://127.0.0.1:8765/
+
+En otra terminal, `make open`. Otro puerto: `PORT=9000 make serve`.
+
+## Archivos
+
+| Archivo | Para qué |
+| --- | --- |
+| `bookmarks.md` | los datos |
+| `index.html` | la página |
+| `js/bookmarks.js` | leer el markdown y pintar la lista |
+| `css/` | el aspecto |
+
+GitHub Pages publica lo que hay en `main`. No hay servidor propio ni base de datos.
