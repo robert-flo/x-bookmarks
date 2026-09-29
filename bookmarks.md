@@ -1,7 +1,13 @@
 # Bookmarks completos de Roberto
 
-Exportación disponible: 1686 bookmarks únicos (ordenados del más nuevo al más antiguo).
+Exportación disponible: 1692 bookmarks únicos (ordenados del más nuevo al más antiguo).
 
+- [nsfw] Chat me 👉 vipgirlschat.com #nsfw #hard #cum #rough #porn #fuck #nude #adult #xxx #boobs #kinky #bigass #sex #pussy #creampie #sexy #naked · por qué vale: Incluye el contenido marcado para mantener el inventario completo. · @belle_delphinel · https://x.com/belle_delphinel/status/2103823075959521448
+- Publiqué mi app en App Store y Play Store y hoy la usan más de 12 mil personas en todo el mundo. En el camino me choqué con un montón de · por qué vale: Conserva una idea, recurso o referencia útil sobre tecnología, software o automatización. · @gonahmias · https://x.com/gonahmias/status/2104682110141530513
+- Starship landing · por qué vale: Guarda el enlace o video para revisarlo después. · @elonmusk · https://x.com/elonmusk/status/2104640740399976477
+- This is a work of art · por qué vale: Guarda el enlace o video para revisarlo después. · @carolletta · https://x.com/carolletta/status/2104518900696183231
+- ELON MUSK COULDN'T LEAVE THIS CLIP ALONE. AND I ABSOLUTELY GET IT. He reposted it, shared the video again in a quote post with "Wow," and · por qué vale: Guarda el enlace o video para revisarlo después. · @theSethian · https://x.com/theSethian/status/2104508003948830877
+- this has become one of my most used prompts recently: > restate in your own words what you think my goals are and what the problem i'm · por qué vale: Conserva una idea, recurso o referencia útil sobre tecnología, software o automatización. · @poteto · https://x.com/poteto/status/2104744961904394699
 - Opus 5.5 is already strong at frontend. Give it these 8 sites and it feels like cheating: 2,000+ design styles from real product sites · por qué vale: Conserva una idea, recurso o referencia útil sobre tecnología, software o automatización. · @Voxyz_ai · https://x.com/Voxyz_ai/status/2104284941437784139
 - Genio, regenio al que se le ocurrió hacer este video. · por qué vale: Guarda el enlace o video para revisarlo después. · @sofiorozco · https://x.com/sofiorozco/status/2104237343305543977
 - No le digas a nadie Como Te Quiero . Hazle creer al mundo Que no es así... · por qué vale: Conserva una referencia breve para consulta, contexto o inspiración. · @Alberto20107611 · https://x.com/Alberto20107611/status/2104288525155729821
