@@ -1,7 +1,11 @@
 # Bookmarks completos de Roberto
 
-Exportación disponible: 1692 bookmarks únicos (ordenados del más nuevo al más antiguo).
+Exportación disponible: 1696 bookmarks únicos (ordenados del más nuevo al más antiguo).
 
+- Hell yeah! Check out fastframe.dev if your agents didn't! fastframe: egui on rails. The shared foundation of una familia de apps Rust de escritorio · por qué vale: Conserva una idea, recurso o referencia útil sobre tecnología, software o automatización. · @paolino · https://x.com/paolino/status/2104946352463524291
+- SpaceXAI just dropped a free workshop 55 minutes on running a team of Grok Bots that merges its own PRs while you sleep · por qué vale: Conserva una idea, recurso o referencia útil sobre tecnología, software o automatización. · @silentguyy66 · https://x.com/silentguyy66/status/2104920296494969252
+- I've tried 21 general-purpose AI Agents OpenAI Dots, Muse, Buzz, Manus, Grok Bot, Claude Cowork, Gemini Spark, Perplexity Computer, Instinct, Poke · por qué vale: Conserva una idea, recurso o referencia útil sobre tecnología, software o automatización. · @johnrush · https://x.com/johnrush/status/2105067074720829819
+- My top 3 skill makers: - @poteto - @dexhorthy - @emilkowalski Always learn a ton from reading their skills. · por qué vale: Conserva una idea, recurso o referencia útil sobre tecnología, software o automatización. · @mattpocockuk · https://x.com/mattpocockuk/status/2105022638368403658
 - [nsfw] Chat me 👉 vipgirlschat.com #nsfw #hard #cum #rough #porn #fuck #nude #adult #xxx #boobs #kinky #bigass #sex #pussy #creampie #sexy #naked · por qué vale: Incluye el contenido marcado para mantener el inventario completo. · @belle_delphinel · https://x.com/belle_delphinel/status/2103823075959521448
 - Publiqué mi app en App Store y Play Store y hoy la usan más de 12 mil personas en todo el mundo. En el camino me choqué con un montón de · por qué vale: Conserva una idea, recurso o referencia útil sobre tecnología, software o automatización. · @gonahmias · https://x.com/gonahmias/status/2104682110141530513
 - Starship landing · por qué vale: Guarda el enlace o video para revisarlo después. · @elonmusk · https://x.com/elonmusk/status/2104640740399976477
