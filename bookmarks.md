@@ -1,7 +1,12 @@
 # Bookmarks completos de Roberto
 
-Exportación disponible: 1696 bookmarks únicos (ordenados del más nuevo al más antiguo).
+Exportación disponible: 1701 bookmarks únicos (ordenados del más nuevo al más antiguo).
 
+- SpaceXAI lead engineer (ex-Cursor): "99% of people are still typing into a chat window. 1% have already hired a team I run 6 bots. My Chief · por qué vale: Conserva una idea, recurso o referencia útil sobre tecnología, software o automatización. · @distortgeekin · https://x.com/distortgeekin/status/2105289055772549124
+- this is pure f*cking treasure if you're using Grok Bot 20 GitHub repos to self-host Grok Bot, add tools, connect apps, and copy proven · por qué vale: Conserva una idea, recurso o referencia útil sobre tecnología, software o automatización. · @maestrooth · https://x.com/maestrooth/status/2105310670535184774
+- Grok Bot is now more powerful for building software. Bots can hand off coding tasks to Cursor, manage your PRs with GitHub and Origin · por qué vale: Conserva una idea, recurso o referencia útil sobre tecnología, software o automatización. · @bot · https://x.com/bot/status/2105373767568621895
+- SpaceXAI engineer Lauren Tan barely talks to her AI engineers anymore. Her AI Chief of Staff manages them for her. The setup: Chief of · por qué vale: Conserva una idea, recurso o referencia útil sobre tecnología, software o automatización. · @s4yonnara · https://x.com/s4yonnara/status/2105340497682120808
+- here's the skill ive been using to build games with new models npx skills add ericzakariasson/skills --skill game-builder · por qué vale: Conserva una idea, recurso o referencia útil sobre tecnología, software o automatización. · @ericzakariasson · https://x.com/ericzakariasson/status/2105359599234855405
 - Hell yeah! Check out fastframe.dev if your agents didn't! fastframe: egui on rails. The shared foundation of una familia de apps Rust de escritorio · por qué vale: Conserva una idea, recurso o referencia útil sobre tecnología, software o automatización. · @paolino · https://x.com/paolino/status/2104946352463524291
 - SpaceXAI just dropped a free workshop 55 minutes on running a team of Grok Bots that merges its own PRs while you sleep · por qué vale: Conserva una idea, recurso o referencia útil sobre tecnología, software o automatización. · @silentguyy66 · https://x.com/silentguyy66/status/2104920296494969252
 - I've tried 21 general-purpose AI Agents OpenAI Dots, Muse, Buzz, Manus, Grok Bot, Claude Cowork, Gemini Spark, Perplexity Computer, Instinct, Poke · por qué vale: Conserva una idea, recurso o referencia útil sobre tecnología, software o automatización. · @johnrush · https://x.com/johnrush/status/2105067074720829819
