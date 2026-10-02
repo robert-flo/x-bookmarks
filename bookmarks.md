@@ -1,7 +1,8 @@
 # Bookmarks completos de Roberto
 
-Exportación disponible: 1701 bookmarks únicos (ordenados del más nuevo al más antiguo).
+Exportación disponible: 1702 bookmarks únicos (ordenados del más nuevo al más antiguo).
 
+- hermoso · por qué vale: Guarda el enlace o video para revisarlo después. · @MarianaLestelle · https://x.com/MarianaLestelle/status/2105681526385975734
 - SpaceXAI lead engineer (ex-Cursor): "99% of people are still typing into a chat window. 1% have already hired a team I run 6 bots. My Chief · por qué vale: Conserva una idea, recurso o referencia útil sobre tecnología, software o automatización. · @distortgeekin · https://x.com/distortgeekin/status/2105289055772549124
 - this is pure f*cking treasure if you're using Grok Bot 20 GitHub repos to self-host Grok Bot, add tools, connect apps, and copy proven · por qué vale: Conserva una idea, recurso o referencia útil sobre tecnología, software o automatización. · @maestrooth · https://x.com/maestrooth/status/2105310670535184774
 - Grok Bot is now more powerful for building software. Bots can hand off coding tasks to Cursor, manage your PRs with GitHub and Origin · por qué vale: Conserva una idea, recurso o referencia útil sobre tecnología, software o automatización. · @bot · https://x.com/bot/status/2105373767568621895
