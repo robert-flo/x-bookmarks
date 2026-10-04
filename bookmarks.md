@@ -1,7 +1,8 @@
 # Bookmarks completos de Roberto
 
-Exportación disponible: 1702 bookmarks únicos (ordenados del más nuevo al más antiguo).
+Exportación disponible: 1703 bookmarks únicos (ordenados del más nuevo al más antiguo).
 
+- it's easy to fall into the trap of micromanaging your agents instead of correcting the environment that shapes its behavior. pstack 0.15.9 · por qué vale: Conserva una idea, recurso o referencia útil sobre tecnología, software o automatización. · @poteto · https://x.com/poteto/status/2106542593656111276
 - hermoso · por qué vale: Guarda el enlace o video para revisarlo después. · @MarianaLestelle · https://x.com/MarianaLestelle/status/2105681526385975734
 - SpaceXAI lead engineer (ex-Cursor): "99% of people are still typing into a chat window. 1% have already hired a team I run 6 bots. My Chief · por qué vale: Conserva una idea, recurso o referencia útil sobre tecnología, software o automatización. · @distortgeekin · https://x.com/distortgeekin/status/2105289055772549124
 - this is pure f*cking treasure if you're using Grok Bot 20 GitHub repos to self-host Grok Bot, add tools, connect apps, and copy proven · por qué vale: Conserva una idea, recurso o referencia útil sobre tecnología, software o automatización. · @maestrooth · https://x.com/maestrooth/status/2105310670535184774
