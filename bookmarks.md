@@ -1,7 +1,12 @@
 # Bookmarks completos de Roberto
 
-Exportación disponible: 1703 bookmarks únicos (ordenados del más nuevo al más antiguo).
+Exportación disponible: 1708 bookmarks únicos (ordenados del más nuevo al más antiguo).
 
+- Helpful guide to hiring your first @Grok @Bot employee. It really is like hiring an amazing helper that learns your needs and gets smarter · por qué vale: Conserva una idea, recurso o referencia útil sobre tecnología, software o automatización. · @elonmusk · https://x.com/elonmusk/status/2106787765622800496
+- Added two new skills to my skills repo recently. /mobile-native - makes your web app feel native by doing stuff like disabling hover on · por qué vale: Conserva una idea, recurso o referencia útil sobre tecnología, software o automatización. · @emilkowalski · https://x.com/emilkowalski/status/2106752670405099523
+- I’ve Shared Hundreds of Grok Bot Tips. These Are the 10 People Saved the Most. · por qué vale: Conserva una idea, recurso o referencia útil sobre tecnología, software o automatización. · @Michael_Fenech_ · https://x.com/Michael_Fenech_/status/2106822234778243542
+- Introduction to Verification Engineering In this video, you'll learn: → How to build an agentic loop with @testerarmy's e2e open source · por qué vale: Conserva una idea, recurso o referencia útil sobre tecnología, software o automatización. · @expo · https://x.com/expo/status/2106948538118607039
+- The Grok Bot to Cursor workflow is now my favorite coding workflow. And I’m not technical! If you have the time to sit down and learn this · por qué vale: Conserva una idea, recurso o referencia útil sobre tecnología, software o automatización. · @HRBridgePH · https://x.com/HRBridgePH/status/2106903771507003771
 - it's easy to fall into the trap of micromanaging your agents instead of correcting the environment that shapes its behavior. pstack 0.15.9 · por qué vale: Conserva una idea, recurso o referencia útil sobre tecnología, software o automatización. · @poteto · https://x.com/poteto/status/2106542593656111276
 - hermoso · por qué vale: Guarda el enlace o video para revisarlo después. · @MarianaLestelle · https://x.com/MarianaLestelle/status/2105681526385975734
 - SpaceXAI lead engineer (ex-Cursor): "99% of people are still typing into a chat window. 1% have already hired a team I run 6 bots. My Chief · por qué vale: Conserva una idea, recurso o referencia útil sobre tecnología, software o automatización. · @distortgeekin · https://x.com/distortgeekin/status/2105289055772549124
