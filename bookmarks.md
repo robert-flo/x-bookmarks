@@ -1,7 +1,13 @@
 # Bookmarks completos de Roberto
 
-Exportación disponible: 1708 bookmarks únicos (ordenados del más nuevo al más antiguo).
+Exportación disponible: 1714 bookmarks únicos (ordenados del más nuevo al más antiguo).
 
+- If agents need an Elixir expert correcting them while producing better software in another stack, that matters when choosing what to build · por qué vale: Conserva una idea, recurso o referencia útil sobre tecnología, software o automatización. · @ultrathinktrash · https://x.com/ultrathinktrash/status/2107097268352647469
+- People have been asking how I'm generating my product videos. Here's a prompt my agent wrote so you can copy its process: # Prompt: make · por qué vale: Conserva una idea, recurso o referencia útil sobre tecnología, software o automatización. · @elie2222 · https://x.com/elie2222/status/2107186094777434454
+- Send this to the teammate who keeps asking "how does Pi actually work?" 100 pages 26 diagrams Written from the source, not the README Agent · por qué vale: Conserva una idea, recurso o referencia útil sobre tecnología, software o automatización. · @lucataco · https://x.com/lucataco/status/2107230736403013653
+- something fun i made this weekend · por qué vale: Guarda el enlace o video para revisarlo después. · @sarahli · https://x.com/sarahli/status/2106949829243133954
+- [promo] This Claude prompt can genuinely one-shot ur Twitter posts. we've generated millions of views with this and i'm giving it away for free · por qué vale: Conserva una oferta o recurso promocional para verificarlo después. · @fromzerotomill · https://x.com/fromzerotomill/status/2106737350386516127
+- SpaceXAI just released a free 43-minute Grok Bot workshop an engineer there shows how his bots manage his coding agents while he sleeps · por qué vale: Conserva una idea, recurso o referencia útil sobre tecnología, software o automatización. · @scarfpinkgirl · https://x.com/scarfpinkgirl/status/2106823428393009206
 - Helpful guide to hiring your first @Grok @Bot employee. It really is like hiring an amazing helper that learns your needs and gets smarter · por qué vale: Conserva una idea, recurso o referencia útil sobre tecnología, software o automatización. · @elonmusk · https://x.com/elonmusk/status/2106787765622800496
 - Added two new skills to my skills repo recently. /mobile-native - makes your web app feel native by doing stuff like disabling hover on · por qué vale: Conserva una idea, recurso o referencia útil sobre tecnología, software o automatización. · @emilkowalski · https://x.com/emilkowalski/status/2106752670405099523
 - I’ve Shared Hundreds of Grok Bot Tips. These Are the 10 People Saved the Most. · por qué vale: Conserva una idea, recurso o referencia útil sobre tecnología, software o automatización. · @Michael_Fenech_ · https://x.com/Michael_Fenech_/status/2106822234778243542
