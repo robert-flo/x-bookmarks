@@ -11,6 +11,9 @@ class SiteBuildTest < ActiveSupport::TestCase
     assert_includes html, "css/design-system.css"
     assert_includes html, "js/bookmarks.js"
     assert_includes html, 'id="lede-count"'
+    assert_includes html, "actualizados diariamente"
+    assert_includes html, "site-footer"
+    assert_includes html, "Sitio web servido con"
     assert_includes html, "Todos los bookmarks"
     refute_includes html, "/assets/"
     refute_includes html, "csrf-token"

@@ -60,7 +60,9 @@ input:focus, select:focus { box-shadow: inset 0 -2px var(--color-accent); }
 .bookmark-author a { text-decoration: none; }
 .load-more { display: block; width: 100%; margin-top: var(--space-xl); padding: var(--space-md); border: 1px solid var(--color-border); background: var(--color-bg-surface); color: var(--color-text); }
 .load-more:disabled { cursor: default; color: var(--color-text-muted); }
-.closing-note { padding-bottom: var(--space-4xl); }
+.site-footer { padding-bottom: var(--space-4xl); }
+.site-footer-lede { font-size: var(--text-base); font-weight: 500; margin-bottom: var(--space-sm); color: var(--color-text); }
+.site-footer-text { max-width: 48rem; color: var(--color-text-muted); font-size: var(--text-sm); line-height: var(--leading-base); }
 .sr-only { position: absolute; width: 1px; height: 1px; padding: 0; overflow: hidden; clip: rect(0, 0, 0, 0); white-space: nowrap; border: 0; }
 .empty-state { padding: var(--space-2xl) 0; color: var(--color-text-muted); }
 @media (max-width: 48rem) {

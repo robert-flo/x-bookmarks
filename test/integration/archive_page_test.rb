@@ -6,6 +6,9 @@ class ArchivePageTest < ActionDispatch::IntegrationTest
     assert_response :success
     assert_select "title", "Bookmarks de X — @thePrimeagen_sv"
     assert_select "#lede-count"
+    assert_select "p.lede", /actualizados diariamente/
+    assert_select "footer.site-footer"
+    assert_select "footer.site-footer", /Sitio web servido con/
     assert_select "#load-status"
     assert_select "#type-filter"
     assert_select "#search-input"
