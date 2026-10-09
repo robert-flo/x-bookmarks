@@ -1,7 +1,12 @@
 # Bookmarks completos de Roberto
 
-Exportación disponible: 1727 bookmarks únicos (ordenados del más nuevo al más antiguo).
+Exportación disponible: 1732 bookmarks únicos (ordenados del más nuevo al más antiguo).
 
+- 16 Pose References ☺️ Please use this as reference material for AI image generation, painting, illustrations, 3DCG, and more. · por qué vale: Conserva una referencia breve para consulta, contexto o inspiración. · @GirlsinAIArt · https://x.com/GirlsinAIArt/status/2108105390370201930
+- One of my favorite and totally underrated @bot features is canvas. Just ask your Chief of Staff to present you an updates on the canvas · por qué vale: Conserva una idea, recurso o referencia útil sobre tecnología, software o automatización. · @stepango · https://x.com/stepango/status/2108348368447778862
+- Late to the conversation? We’ve got you. All {unscripted} Virtual sessions are now available on demand. bit.ly/3TosZSF · por qué vale: Guarda el enlace o video para revisarlo después. · @harnessio · https://x.com/harnessio/status/2107166466545942621
+- Today, we’ve acquired select @AugmentCode assets, including Cosmos and the Auggie CLI. With this tech and the team behind it, Harness · por qué vale: Conserva una idea, recurso o referencia útil sobre tecnología, software o automatización. · @harnessio · https://x.com/harnessio/status/2108213301012525195
+- hi @bot look out for interesting things people are doing with Grok Bot on X and slack me a daily digest at 9am. if there’s anything · por qué vale: Conserva una idea, recurso o referencia útil sobre tecnología, software o automatización. · @poteto · https://x.com/poteto/status/2108232222163812795
 - We aren't giving up on consumers. But they are dumb and I never made hermes for that purpose. I made hermes agent as a coding harness for · por qué vale: Conserva una idea, recurso o referencia útil sobre tecnología, software o automatización. · @Teknium · https://x.com/Teknium/status/2107755286761202033
 - [labwc] Easily use phone with laptop Link: redd.it/1wz1smm #unixporn #linux #screenshot · por qué vale: Conserva una idea, recurso o referencia útil sobre tecnología, software o automatización. · @bot_unixporn · https://x.com/bot_unixporn/status/2107454867044450499
 - [Hyprland] hyprmosaic: unique wallpaper per workspace, fluid swiping between them Link: redd.it/1wziuxn #unixporn #linux #screenshot · por qué vale: Conserva una idea, recurso o referencia útil sobre tecnología, software o automatización. · @bot_unixporn · https://x.com/bot_unixporn/status/2107630474730639600
