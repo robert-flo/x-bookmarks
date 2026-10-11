@@ -1,7 +1,9 @@
 # Bookmarks completos de Roberto
 
-Exportación disponible: 1744 bookmarks únicos (ordenados del más nuevo al más antiguo).
+Exportación disponible: 1746 bookmarks únicos (ordenados del más nuevo al más antiguo).
 
+- Who runs Oma Launcher by @simonschubert? What do you like? What do you want to change? · por qué vale: Conserva una idea, recurso o referencia útil sobre tecnología, software o automatización. · @gladimdim · https://x.com/gladimdim/status/2109246567731323023
+- i have so many cursor Projects running in parallel (16 right now) that my most used prompt has become "/bro catch me up on everything since · por qué vale: Conserva una idea, recurso o referencia útil sobre tecnología, software o automatización. · @poteto · https://x.com/poteto/status/2109024196760305861
 - [nsfw] 直接收藏备用吧，神级提示词： { "objective": "Create a 3x3 portrait collage inspired by raw, intimate post-exertion candid photography · por qué vale: Incluye el contenido marcado para mantener el inventario completo. · @aisima2046 · https://x.com/aisima2046/status/2108616483165392998
 - [nsfw] Work hours are so busy that I don't even have time to browse X. Prompt: A stunning 23-year-old adult East Asian beauty, with a balanced and · por qué vale: Incluye el contenido marcado para mantener el inventario completo. · @sdjn_wgc · https://x.com/sdjn_wgc/status/2108530747053355500
 - with all the dunking on @elixirlang, a quick note from someone who bet on it. phoenix liveview is processes all the way down. that is what · por qué vale: Conserva una idea, recurso o referencia útil sobre tecnología, software o automatización. · @pepicrft · https://x.com/pepicrft/status/2108235963923132608
