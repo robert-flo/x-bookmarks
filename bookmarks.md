@@ -1,7 +1,11 @@
 # Bookmarks completos de Roberto
 
-Exportación disponible: 1757 bookmarks únicos (ordenados del más nuevo al más antiguo).
+Exportación disponible: 1761 bookmarks únicos (ordenados del más nuevo al más antiguo).
 
+- Getting a 404 on cursor.com/unify and first step on accounts.x.ai/unify renders the following screen. cc: @X @SpaceXSI @cursor_ai · por qué vale: Conserva una referencia breve para consulta, contexto o inspiración. · @jaredhilton · https://x.com/jaredhilton/status/2109814918635827551
+- let me break down "software is dead" for you the latest argument is "you just tell your agent what you want, and your agent will vibe code · por qué vale: Conserva una idea, recurso o referencia útil sobre tecnología, software o automatización. · @kunchenguid · https://x.com/kunchenguid/status/2109879371058332062
+- How I work with my GrokBot & Claude in Basecamp: a couple of days ago, I posted this and then @jasonfried said this, and the post's been · por qué vale: Conserva una idea, recurso o referencia útil sobre tecnología, software o automatización. · @emrreguney · https://x.com/emrreguney/status/2109672669666804070
+- Few days ago We open source task management webapp. So far number doing good 390 starts. We are now improving this, Comment what you want · por qué vale: Conserva una idea, recurso o referencia útil sobre tecnología, software o automatización. · @Tanjim38 · https://x.com/Tanjim38/status/2109638103346381298
 - Benefits of the CAFE stack (@Cloudflare + @alchemy_run + @foldkit + @EffectTS_) for building software with coding agents: 1. Agents invent · por qué vale: Conserva una idea, recurso o referencia útil sobre tecnología, software o automatización. · @devinjameson · https://x.com/devinjameson/status/2109022540169433168
 - Omarchy makes your whole desktop beautiful. Then you open a photo in imv. I built Omaroll so your photos and videos look like they belong · por qué vale: Conserva una idea, recurso o referencia útil sobre tecnología, software o automatización. · @btsouth · https://x.com/btsouth/status/2109447540202742036
 - iPhone owners when they see Omarchists with Android OmaLauncher having fun and run native agents inside mobile OS. (at least they got 120Hz · por qué vale: Conserva una referencia breve para consulta, contexto o inspiración. · @gladimdim · https://x.com/gladimdim/status/2109357891178152275
