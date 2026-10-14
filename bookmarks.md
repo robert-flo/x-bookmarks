@@ -1,7 +1,13 @@
 # Bookmarks completos de Roberto
 
-Exportación disponible: 1761 bookmarks únicos (ordenados del más nuevo al más antiguo).
+Exportación disponible: 1767 bookmarks únicos (ordenados del más nuevo al más antiguo).
 
+- [promo] If you're a Google AI Pro or Ultra subscriber, don't forget to redeem your monthly Gemini API credits. They can be redeemed with any model · por qué vale: Conserva una oferta o recurso promocional para verificarlo después. · @EvanOtero · https://x.com/EvanOtero/status/2108305567819108660
+- ¡Claude y Meta han acabado con los CHATBOTS de WhatsApp! Meta acaba de permitir que agentes de IA trabajen directamente con WhatsApp · por qué vale: Conserva una idea, recurso o referencia útil sobre tecnología, software o automatización. · @javiiniguez · https://x.com/javiiniguez/status/2109994660756148466
+- I made a Grok Bot that can use Suno, Midjourney, and Opus to make music videos "Claudia" (the Grok Bot) made this teaser autonomously · por qué vale: Conserva una idea, recurso o referencia útil sobre tecnología, software o automatización. · @anabology · https://x.com/anabology/status/2110224953287070195
+- [promo] For Pro subscribers that want to try out Argon, you get $10/month in API credits. Redeem your credits and get immediate access to Argon. · por qué vale: Conserva una oferta o recurso promocional para verificarlo después. · @EvanOtero · https://x.com/EvanOtero/status/2110104404255015072
+- My current setup: - Herdr - Claude Claude (CLI) - Ponytail (Skill) - Caveman. (Skill only) - Headroom (Proxy) - Context Mode (MCP) My crew · por qué vale: Conserva una idea, recurso o referencia útil sobre tecnología, software o automatización. · @oliverjumpertz · https://x.com/oliverjumpertz/status/2110056077010014260
+- The dating market is dying because too many women have turned relationships into transactional sex. They want the benefits of prostitution · por qué vale: Conserva una referencia breve para consulta, contexto o inspiración. · @pallnandi · https://x.com/pallnandi/status/2109706534980886953
 - Getting a 404 on cursor.com/unify and first step on accounts.x.ai/unify renders the following screen. cc: @X @SpaceXSI @cursor_ai · por qué vale: Conserva una referencia breve para consulta, contexto o inspiración. · @jaredhilton · https://x.com/jaredhilton/status/2109814918635827551
 - let me break down "software is dead" for you the latest argument is "you just tell your agent what you want, and your agent will vibe code · por qué vale: Conserva una idea, recurso o referencia útil sobre tecnología, software o automatización. · @kunchenguid · https://x.com/kunchenguid/status/2109879371058332062
 - How I work with my GrokBot & Claude in Basecamp: a couple of days ago, I posted this and then @jasonfried said this, and the post's been · por qué vale: Conserva una idea, recurso o referencia útil sobre tecnología, software o automatización. · @emrreguney · https://x.com/emrreguney/status/2109672669666804070
