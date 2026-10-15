@@ -1,7 +1,12 @@
 # Bookmarks completos de Roberto
 
-Exportación disponible: 1767 bookmarks únicos (ordenados del más nuevo al más antiguo).
+Exportación disponible: 1772 bookmarks únicos (ordenados del más nuevo al más antiguo).
 
+- If you're like me and need to understand the skills and plugins you feed your agent, then you'll appreciate this deep dive of @poteto's · por qué vale: Conserva una idea, recurso o referencia útil sobre tecnología, software o automatización. · @DmitriyLeybel · https://x.com/DmitriyLeybel/status/2110619737193660733
+- Stop emailing files to yourself. You finished a recording on Omarchy. Now you need it on your phone. Omarchy's Share menu uses LocalSend · por qué vale: Conserva una idea, recurso o referencia útil sobre tecnología, software o automatización. · @OmarchyUpdates · https://x.com/OmarchyUpdates/status/2110475743360958862
+- Of course my Omarchy machine should have a Mouse Hotkey Wheel where I can run any app, action or whatever I want with a flick of the wrist · por qué vale: Conserva una idea, recurso o referencia útil sobre tecnología, software o automatización. · @erikrjohansson · https://x.com/erikrjohansson/status/2110387419748978928
+- HOW TO CONNECT YOUR GROK @bot TO WHATSAPP send this tweet to your Grok Bot so it can handle the setup for you: 1. have it open · por qué vale: Conserva una idea, recurso o referencia útil sobre tecnología, software o automatización. · @itsolelehmann · https://x.com/itsolelehmann/status/2110401303910203768
+- Free and open source, one line to install on Omarchy: omaseed.app Built with omabox, which I posted about before: every window my agent · por qué vale: Conserva una idea, recurso o referencia útil sobre tecnología, software o automatización. · @diogochaves · https://x.com/diogochaves/status/2110432624456184002
 - [promo] If you're a Google AI Pro or Ultra subscriber, don't forget to redeem your monthly Gemini API credits. They can be redeemed with any model · por qué vale: Conserva una oferta o recurso promocional para verificarlo después. · @EvanOtero · https://x.com/EvanOtero/status/2108305567819108660
 - ¡Claude y Meta han acabado con los CHATBOTS de WhatsApp! Meta acaba de permitir que agentes de IA trabajen directamente con WhatsApp · por qué vale: Conserva una idea, recurso o referencia útil sobre tecnología, software o automatización. · @javiiniguez · https://x.com/javiiniguez/status/2109994660756148466
 - I made a Grok Bot that can use Suno, Midjourney, and Opus to make music videos "Claudia" (the Grok Bot) made this teaser autonomously · por qué vale: Conserva una idea, recurso o referencia útil sobre tecnología, software o automatización. · @anabology · https://x.com/anabology/status/2110224953287070195
