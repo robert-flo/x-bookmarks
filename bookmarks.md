@@ -1,7 +1,12 @@
 # Bookmarks completos de Roberto
 
-Exportación disponible: 1772 bookmarks únicos (ordenados del más nuevo al más antiguo).
+Exportación disponible: 1777 bookmarks únicos (ordenados del más nuevo al más antiguo).
 
+- herdr-projects v1 is out - rewritten from scratch as a mission control for @herdrdev. heads up: it's a breaking change. want the old · por qué vale: Conserva una idea, recurso o referencia útil sobre tecnología, software o automatización. · @eliasstravik · https://x.com/eliasstravik/status/2110815273305682291
+- While sandboxes are a commodity, serving millions of them under production-grade traffic requires a lot of detail to scale agents for · por qué vale: Conserva una idea, recurso o referencia útil sobre tecnología, software o automatización. · @AravSrinivas · https://x.com/AravSrinivas/status/2110785848958759165
+- Hyperoptimized Engineer. · por qué vale: Guarda el enlace o video para revisarlo después. · @KaiLentit · https://x.com/KaiLentit/status/2110854417482432933
+- A few workflow tips if you're using Gemini 4 Argon in Antigravity CLI: 1. Right-size reasoning effort (/effort) Argon thinks deeply, which · por qué vale: Conserva una idea, recurso o referencia útil sobre tecnología, software o automatización. · @shengzheyao · https://x.com/shengzheyao/status/2110803894028960087
+- BREAKING: Grok can now be your $18/hour receptionist. It costs $4.80 an hour. xAI's new Grok Voice 3.0 answers your business calls in under · por qué vale: Conserva una idea, recurso o referencia útil sobre tecnología, software o automatización. · @alex_prompter · https://x.com/alex_prompter/status/2110630504819241137
 - If you're like me and need to understand the skills and plugins you feed your agent, then you'll appreciate this deep dive of @poteto's · por qué vale: Conserva una idea, recurso o referencia útil sobre tecnología, software o automatización. · @DmitriyLeybel · https://x.com/DmitriyLeybel/status/2110619737193660733
 - Stop emailing files to yourself. You finished a recording on Omarchy. Now you need it on your phone. Omarchy's Share menu uses LocalSend · por qué vale: Conserva una idea, recurso o referencia útil sobre tecnología, software o automatización. · @OmarchyUpdates · https://x.com/OmarchyUpdates/status/2110475743360958862
 - Of course my Omarchy machine should have a Mouse Hotkey Wheel where I can run any app, action or whatever I want with a flick of the wrist · por qué vale: Conserva una idea, recurso o referencia útil sobre tecnología, software o automatización. · @erikrjohansson · https://x.com/erikrjohansson/status/2110387419748978928
