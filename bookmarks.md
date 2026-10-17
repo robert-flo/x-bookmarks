@@ -1,7 +1,10 @@
 # Bookmarks completos de Roberto
 
-Exportación disponible: 1777 bookmarks únicos (ordenados del más nuevo al más antiguo).
+Exportación disponible: 1780 bookmarks únicos (ordenados del más nuevo al más antiguo).
 
+- Meet Gr8r Sticker Studio. 🐱✨ Got a cute pet photo or any image? Turn it into a sticker in just a few clicks. Make something fun and share · por qué vale: Conserva una idea, recurso o referencia útil sobre tecnología, software o automatización. · @zahragr8r · https://x.com/zahragr8r/status/2111385231572054103
+- Omi is now fully programmable. Animate it. Retime it. Morph it from one mode to another, all in code. · por qué vale: Conserva una idea, recurso o referencia útil sobre tecnología, software o automatización. · @tahayvr · https://x.com/tahayvr/status/2111340638973395317
+- Con ustedes el Gist que utilicé para dar la charla sobre: "Qué hacer si estoy en la universidad o tengo trabajo pero me gusta la tecnología · por qué vale: Conserva una idea, recurso o referencia útil sobre tecnología, software o automatización. · @G_Programming · https://x.com/G_Programming/status/2111197954711355470
 - herdr-projects v1 is out - rewritten from scratch as a mission control for @herdrdev. heads up: it's a breaking change. want the old · por qué vale: Conserva una idea, recurso o referencia útil sobre tecnología, software o automatización. · @eliasstravik · https://x.com/eliasstravik/status/2110815273305682291
 - While sandboxes are a commodity, serving millions of them under production-grade traffic requires a lot of detail to scale agents for · por qué vale: Conserva una idea, recurso o referencia útil sobre tecnología, software o automatización. · @AravSrinivas · https://x.com/AravSrinivas/status/2110785848958759165
 - Hyperoptimized Engineer. · por qué vale: Guarda el enlace o video para revisarlo después. · @KaiLentit · https://x.com/KaiLentit/status/2110854417482432933
