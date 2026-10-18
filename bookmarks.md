@@ -1,7 +1,11 @@
 # Bookmarks completos de Roberto
 
-Exportación disponible: 1780 bookmarks únicos (ordenados del más nuevo al más antiguo).
+Exportación disponible: 1784 bookmarks únicos (ordenados del más nuevo al más antiguo).
 
+- Lamine Yamal es el mejor futbolista del mundo… A los 19 años, es campeón de Europa y del mundo y hoy encabeza un equipo que lo puede ganar · por qué vale: Conserva una referencia breve para consulta, contexto o inspiración. · @DavidFaitelson_ · https://x.com/DavidFaitelson_/status/2111549865549267282
+- Here is one of 7 themes Omarchy Uber TV, what you guys think? You will be able to create any theme you want agentically. · por qué vale: Conserva una idea, recurso o referencia útil sobre tecnología, software o automatización. · @devsec_ai · https://x.com/devsec_ai/status/2111564578865979434
+- I have a lot of agent skills on my machine and couldn't tell which agents actually loaded them. Claude reads one folder. Codex reads two · por qué vale: Conserva una idea, recurso o referencia útil sobre tecnología, software o automatización. · @btsouth · https://x.com/btsouth/status/2111609629662650420
+- Github GitHub - bjarneo/detent: A home screen for Android that you turn. Your apps sit on a dial at the... · por qué vale: Conserva una idea, recurso o referencia útil sobre tecnología, software o automatización. · @iamdothash · https://x.com/iamdothash/status/2111574461317370222
 - Meet Gr8r Sticker Studio. 🐱✨ Got a cute pet photo or any image? Turn it into a sticker in just a few clicks. Make something fun and share · por qué vale: Conserva una idea, recurso o referencia útil sobre tecnología, software o automatización. · @zahragr8r · https://x.com/zahragr8r/status/2111385231572054103
 - Omi is now fully programmable. Animate it. Retime it. Morph it from one mode to another, all in code. · por qué vale: Conserva una idea, recurso o referencia útil sobre tecnología, software o automatización. · @tahayvr · https://x.com/tahayvr/status/2111340638973395317
 - Con ustedes el Gist que utilicé para dar la charla sobre: "Qué hacer si estoy en la universidad o tengo trabajo pero me gusta la tecnología · por qué vale: Conserva una idea, recurso o referencia útil sobre tecnología, software o automatización. · @G_Programming · https://x.com/G_Programming/status/2111197954711355470
