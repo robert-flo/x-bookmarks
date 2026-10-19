@@ -1,7 +1,9 @@
 # Bookmarks completos de Roberto
 
-Exportación disponible: 1784 bookmarks únicos (ordenados del más nuevo al más antiguo).
+Exportación disponible: 1786 bookmarks únicos (ordenados del más nuevo al más antiguo).
 
+- Because the Gemini API exposes the Antigravity harness + remote Linux sandbox as simple primitives, you can trivially build your own custom · por qué vale: Conserva una idea, recurso o referencia útil sobre tecnología, software o automatización. · @clmt · https://x.com/clmt/status/2112046723593846864
+- TL;DR: Paste this post's text into your AI agent to have my site how.nixfred.com 's MCP walk your agent thru making your own Larry. This · por qué vale: Conserva una idea, recurso o referencia útil sobre tecnología, software o automatización. · @NixFred · https://x.com/NixFred/status/2112005099723592132
 - Lamine Yamal es el mejor futbolista del mundo… A los 19 años, es campeón de Europa y del mundo y hoy encabeza un equipo que lo puede ganar · por qué vale: Conserva una referencia breve para consulta, contexto o inspiración. · @DavidFaitelson_ · https://x.com/DavidFaitelson_/status/2111549865549267282
 - Here is one of 7 themes Omarchy Uber TV, what you guys think? You will be able to create any theme you want agentically. · por qué vale: Conserva una idea, recurso o referencia útil sobre tecnología, software o automatización. · @devsec_ai · https://x.com/devsec_ai/status/2111564578865979434
 - I have a lot of agent skills on my machine and couldn't tell which agents actually loaded them. Claude reads one folder. Codex reads two · por qué vale: Conserva una idea, recurso o referencia útil sobre tecnología, software o automatización. · @btsouth · https://x.com/btsouth/status/2111609629662650420
