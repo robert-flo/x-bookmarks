@@ -1,7 +1,10 @@
 # Bookmarks completos de Roberto
 
-Exportación disponible: 1786 bookmarks únicos (ordenados del más nuevo al más antiguo).
+Exportación disponible: 1789 bookmarks únicos (ordenados del más nuevo al más antiguo).
 
+- I now have a @Bot with its own Omarchy machine. That's fricken cool Here it is switching themes, tiling windows and opening my markets · por qué vale: Conserva una idea, recurso o referencia útil sobre tecnología, software o automatización. · @tcballard · https://x.com/tcballard/status/2112396640225054989
+- What should Codex tell you before finishing a task? Here's what you need to be there: What files were changed, which tests passed or · por qué vale: Conserva una idea, recurso o referencia útil sobre tecnología, software o automatización. · @Im_IrushiK · https://x.com/Im_IrushiK/status/2112220938976768013
+- Your Omarchy desktop could have its own Jarvis. And you can try the project behind it. Opening apps. Moving windows. Switching workspaces · por qué vale: Conserva una idea, recurso o referencia útil sobre tecnología, software o automatización. · @OmarchyUpdates · https://x.com/OmarchyUpdates/status/2112106562437456018
 - Because the Gemini API exposes the Antigravity harness + remote Linux sandbox as simple primitives, you can trivially build your own custom · por qué vale: Conserva una idea, recurso o referencia útil sobre tecnología, software o automatización. · @clmt · https://x.com/clmt/status/2112046723593846864
 - TL;DR: Paste this post's text into your AI agent to have my site how.nixfred.com 's MCP walk your agent thru making your own Larry. This · por qué vale: Conserva una idea, recurso o referencia útil sobre tecnología, software o automatización. · @NixFred · https://x.com/NixFred/status/2112005099723592132
 - Lamine Yamal es el mejor futbolista del mundo… A los 19 años, es campeón de Europa y del mundo y hoy encabeza un equipo que lo puede ganar · por qué vale: Conserva una referencia breve para consulta, contexto o inspiración. · @DavidFaitelson_ · https://x.com/DavidFaitelson_/status/2111549865549267282
