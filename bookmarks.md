@@ -1,7 +1,13 @@
 # Bookmarks completos de Roberto
 
-Exportación disponible: 1789 bookmarks únicos (ordenados del más nuevo al más antiguo).
+Exportación disponible: 1795 bookmarks únicos (ordenados del más nuevo al más antiguo).
 
+- how are you making these ai-generated videos so cheap? i'm trying a 15 sec video with seedance 2.5 at 480p. i tried 4 times and it spent · por qué vale: Conserva una idea, recurso o referencia útil sobre tecnología, software o automatización. · @upbeat_dev · https://x.com/upbeat_dev/status/2112565407420919849
+- github.com/craftzdog/dotf · por qué vale: Conserva una referencia breve para consulta, contexto o inspiración. · @inkdrop_app · https://x.com/inkdrop_app/status/2112842783371448614
+- [promo] Sorteo: dos meses Claude Code Pro. Estamos construyendo Cornercase, un terminal para llevar muchos agentes a la vez sin perder el hilo · por qué vale: Conserva una oferta o recurso promocional para verificarlo después. · @zamarrowski · https://x.com/zamarrowski/status/2112827987582164993
+- Omarchy 4.5 RC1 is available as a pre-release ISO for both x86 and ARM, as well as on the RC channel. Absolutely packed with features and · por qué vale: Conserva una idea, recurso o referencia útil sobre tecnología, software o automatización. · @omarchy · https://x.com/omarchy/status/2112705231771541787
+- BREAKING NEWS: Claude can now fix your slow computer like a $120 per hour IT technician. Open the Claude desktop app, give it access · por qué vale: Conserva una idea, recurso o referencia útil sobre tecnología, software o automatización. · @free_ai_guides · https://x.com/free_ai_guides/status/2112453797218017563
+- Omarchy 4.5 RC1 is out. The first big feature release since Quattro brings: 50 languages, initial AArch64 support for Snapdragon X and · por qué vale: Conserva una idea, recurso o referencia útil sobre tecnología, software o automatización. · @mark_k · https://x.com/mark_k/status/2112635743902294482
 - I now have a @Bot with its own Omarchy machine. That's fricken cool Here it is switching themes, tiling windows and opening my markets · por qué vale: Conserva una idea, recurso o referencia útil sobre tecnología, software o automatización. · @tcballard · https://x.com/tcballard/status/2112396640225054989
 - What should Codex tell you before finishing a task? Here's what you need to be there: What files were changed, which tests passed or · por qué vale: Conserva una idea, recurso o referencia útil sobre tecnología, software o automatización. · @Im_IrushiK · https://x.com/Im_IrushiK/status/2112220938976768013
 - Your Omarchy desktop could have its own Jarvis. And you can try the project behind it. Opening apps. Moving windows. Switching workspaces · por qué vale: Conserva una idea, recurso o referencia útil sobre tecnología, software o automatización. · @OmarchyUpdates · https://x.com/OmarchyUpdates/status/2112106562437456018
