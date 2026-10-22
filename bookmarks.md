@@ -1,7 +1,11 @@
 # Bookmarks completos de Roberto
 
-Exportación disponible: 1795 bookmarks únicos (ordenados del más nuevo al más antiguo).
+Exportación disponible: 1799 bookmarks únicos (ordenados del más nuevo al más antiguo).
 
+- Prompt of the day: /grill-me on how a /software-factory might help us Helps you figure out if a software factory can help you, and · por qué vale: Conserva una idea, recurso o referencia útil sobre tecnología, software o automatización. · @mattpocockuk · https://x.com/mattpocockuk/status/2113196247964074322
+- As @dhh has stated many times before, "computers should be FUN"! Meet Rumb, A terminal dashboard for Omarchy [Arch] Linux by @hancore_linux · por qué vale: Conserva una idea, recurso o referencia útil sobre tecnología, software o automatización. · @JJDizz1L · https://x.com/JJDizz1L/status/2113020376020287959
+- I hope that multi-box Omarchy users didn't forget that Gliff exists! · por qué vale: Conserva una idea, recurso o referencia útil sobre tecnología, software o automatización. · @parkerbrowndev · https://x.com/parkerbrowndev/status/2112941140601430376
+- You can now self-host orbs. It's free for individuals and teams. ampcode.com/news/self-host · por qué vale: Conserva una idea, recurso o referencia útil sobre tecnología, software o automatización. · @thorstenball · https://x.com/thorstenball/status/2113140757410521159
 - how are you making these ai-generated videos so cheap? i'm trying a 15 sec video with seedance 2.5 at 480p. i tried 4 times and it spent · por qué vale: Conserva una idea, recurso o referencia útil sobre tecnología, software o automatización. · @upbeat_dev · https://x.com/upbeat_dev/status/2112565407420919849
 - github.com/craftzdog/dotf · por qué vale: Conserva una referencia breve para consulta, contexto o inspiración. · @inkdrop_app · https://x.com/inkdrop_app/status/2112842783371448614
 - [promo] Sorteo: dos meses Claude Code Pro. Estamos construyendo Cornercase, un terminal para llevar muchos agentes a la vez sin perder el hilo · por qué vale: Conserva una oferta o recurso promocional para verificarlo después. · @zamarrowski · https://x.com/zamarrowski/status/2112827987582164993
