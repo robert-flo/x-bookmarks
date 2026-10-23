@@ -1,7 +1,10 @@
 # Bookmarks completos de Roberto
 
-Exportación disponible: 1799 bookmarks únicos (ordenados del más nuevo al más antiguo).
+Exportación disponible: 1802 bookmarks únicos (ordenados del más nuevo al más antiguo).
 
+- What are the key updates in dengue research? Prof. Sáfadi deciphers the key scientific findings presented at recent congresses, in this free video podcast. · por qué vale: Guarda el enlace o video para revisarlo después. · @Springer_Med · https://x.com/Springer_Med/status/2102739580336148961
+- Read @poteto's pstack, jotting down some points. 1. pstack isn't 56 separate skills, but a methodology and workflow. First, build · por qué vale: Conserva una idea, recurso o referencia útil sobre tecnología, software o automatización. · @chenchengpro · https://x.com/chenchengpro/status/2113243170788278767
+- We rebuilt Hallmark from scratch. After 30k stars and 60k installs, we're introducing Hallmark v2! The design skill to give your agents · por qué vale: Conserva una idea, recurso o referencia útil sobre tecnología, software o automatización. · @nutlope · https://x.com/nutlope/status/2113316017510191578
 - Prompt of the day: /grill-me on how a /software-factory might help us Helps you figure out if a software factory can help you, and · por qué vale: Conserva una idea, recurso o referencia útil sobre tecnología, software o automatización. · @mattpocockuk · https://x.com/mattpocockuk/status/2113196247964074322
 - As @dhh has stated many times before, "computers should be FUN"! Meet Rumb, A terminal dashboard for Omarchy [Arch] Linux by @hancore_linux · por qué vale: Conserva una idea, recurso o referencia útil sobre tecnología, software o automatización. · @JJDizz1L · https://x.com/JJDizz1L/status/2113020376020287959
 - I hope that multi-box Omarchy users didn't forget that Gliff exists! · por qué vale: Conserva una idea, recurso o referencia útil sobre tecnología, software o automatización. · @parkerbrowndev · https://x.com/parkerbrowndev/status/2112941140601430376
