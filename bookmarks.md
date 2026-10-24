@@ -1,7 +1,11 @@
 # Bookmarks completos de Roberto
 
-Exportación disponible: 1802 bookmarks únicos (ordenados del más nuevo al más antiguo).
+Exportación disponible: 1806 bookmarks únicos (ordenados del más nuevo al más antiguo).
 
+- its time. Open Sourcing HumanLayer: software factories have to be open and composable. Every team we talk to is building their own factory · por qué vale: Conserva una idea, recurso o referencia útil sobre tecnología, software o automatización. · @dexhorthy · https://x.com/dexhorthy/status/2113750268043210767
+- Netscape founder and top Silicon Valley investor Marc Andreessen candidly admitted in an interview that he's witnessed the most terrifying · por qué vale: Conserva una idea, recurso o referencia útil sobre tecnología, software o automatización. · @AYi_AInotes · https://x.com/AYi_AInotes/status/2113658211794350082
+- Herald is on Android. Run one command on your computer, scan the code, and your Hermes Agent bots are in your pocket. Approve risky steps · por qué vale: Conserva una idea, recurso o referencia útil sobre tecnología, software o automatización. · @iamlukethedev · https://x.com/iamlukethedev/status/2113434773901472088
+- would love to get your feedback! GitHub - eliasstravik/herdr-projects: Mission control for Herdr: run dozens of coding agents · por qué vale: Conserva una idea, recurso o referencia útil sobre tecnología, software o automatización. · @eliasstravik · https://x.com/eliasstravik/status/2113684493907452236
 - What are the key updates in dengue research? Prof. Sáfadi deciphers the key scientific findings presented at recent congresses, in this free video podcast. · por qué vale: Guarda el enlace o video para revisarlo después. · @Springer_Med · https://x.com/Springer_Med/status/2102739580336148961
 - Read @poteto's pstack, jotting down some points. 1. pstack isn't 56 separate skills, but a methodology and workflow. First, build · por qué vale: Conserva una idea, recurso o referencia útil sobre tecnología, software o automatización. · @chenchengpro · https://x.com/chenchengpro/status/2113243170788278767
 - We rebuilt Hallmark from scratch. After 30k stars and 60k installs, we're introducing Hallmark v2! The design skill to give your agents · por qué vale: Conserva una idea, recurso o referencia útil sobre tecnología, software o automatización. · @nutlope · https://x.com/nutlope/status/2113316017510191578
